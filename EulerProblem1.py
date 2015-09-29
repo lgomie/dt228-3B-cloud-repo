@@ -1,4 +1,5 @@
-Euler problem 1 code created
+# Euler problem 1 archive created
+
 # Here I set the range for the sum operation
 for i in range(0,1000):
 
