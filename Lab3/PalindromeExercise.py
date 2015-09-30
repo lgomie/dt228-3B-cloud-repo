@@ -1,4 +1,2 @@
-# Creation of Palindrome Exercise
-# Excuse for commit 2
-# Commit 3
-# Commit 4
+# Asks the user for input of the word and makes it lower case.
+normStr = raw_input("Enter the word:\n").lower();
